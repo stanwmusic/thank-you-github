@@ -638,3 +638,5 @@ Signed,
 - Wael Nasreddine ([@kalbasit](https://github.com/kalbasit)), VP of Engineering at [Publica](https://getpublica.com/)
 - Stephen Jennings ([@jennings](https://github.com/jennings)), Software Developer
 - Joel Bryan Juliano ([@jjuliano](https://github.com/jjuliano)), Full-Stack Rubyist & Senior Rails Engineer, Philippines
+
+- Stan Williams ([@stanwmusic](https://github.com/stanwmusic)), Freelance Developer,  USA
